@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">IEBMS</string>
+
+    <string-array name="bookname_str">
+        <item>Anis Hossen</item>
+        <item>Bulbul</item>
+        <item>Faruk</item>
+
+    </string-array>
 </resources>
